@@ -1,0 +1,6 @@
+README.md
+setup.py
+image_quality_network.egg-info/PKG-INFO
+image_quality_network.egg-info/SOURCES.txt
+image_quality_network.egg-info/dependency_links.txt
+image_quality_network.egg-info/top_level.txt
